@@ -10,4 +10,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/nutlets" target="_blank">Орешки</a> (3%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/eniya" target="_blank">Эния</a> (3%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gulliver" target="_blank">Гулливер</a> (4%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/two_bandits" target="_blank">Два бандита</a> (4%)</li>
 </ol>
