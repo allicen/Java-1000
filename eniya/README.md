@@ -23,9 +23,5 @@
             <td>14 23 5</td>
             <td>3220</td>
          </tr>
-         <tr>
-            <td>3 2 1</td>
-            <td>YES</td>
-         </tr>
       </tbody>
    </table>
