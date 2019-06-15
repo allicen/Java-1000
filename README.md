@@ -6,4 +6,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/a_plus_b" target="_blank">A+B</a> (2%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/beads" target="_blank">Бисер</a> (2%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/contest" target="_blank">Олимпиада</a> (2%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/more_less" target="_blank">Больше-меньше</a> (3%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/nutlets" target="_blank">Орешки</a> (3%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/eniya" target="_blank">Эния</a> (3%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/gulliver" target="_blank">Гулливер</a> (4%)</li>
 </ol>
