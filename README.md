@@ -12,4 +12,9 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gulliver" target="_blank">Гулливер</a> (4%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_bandits" target="_blank">Два бандита</a> (4%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/salary" target="_blank">Зарплата</a> (4%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/game" target="_blank">Игра</a> (4%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/arithmetic" target="_blank">Арифметика</a> (5%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/basketball" target="_blank">Баскетбол</a> (5%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/strawberry" target="_blank">Сбор земляники</a> (6%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/cake" target="_blank">Торт</a> (6%)</li>
 </ol>
