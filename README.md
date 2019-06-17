@@ -17,4 +17,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/basketball" target="_blank">Баскетбол</a> (5%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/strawberry" target="_blank">Сбор земляники</a> (6%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/cake" target="_blank">Торт</a> (6%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/crane" target="_blank">Журавлики</a> (7%)</li>
 </ol>
