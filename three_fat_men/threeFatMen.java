@@ -21,8 +21,8 @@ public class threeFatMen {
                 error = true;
             }
         }
-        Collections.sort(weight, Collections.reverseOrder());
-        out = (error == true) ? "Error" : String.valueOf(weight.get(0));
+        weight.sort(Collections.reverseOrder()); // Сортировка в обратном порядке
+        out = (error) ? "Error" : String.valueOf(weight.get(0));
         FileWriter fileOut = new FileWriter("output.txt");
         fileOut.write(out);
         fileOut.close();
