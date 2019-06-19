@@ -21,7 +21,7 @@ public class Turn {
         }
         Collections.reverse(numbers);
         for(String i : numbers){
-            out.append(i).append(" ");
+            out.append(i).append(" "); // Записать в переменную i и пробел
         }
         FileWriter fileOut = new FileWriter("output.txt");
         fileOut.write(out.toString());
