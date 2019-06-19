@@ -19,4 +19,9 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/cake" target="_blank">Торт</a> (6%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/crane" target="_blank">Журавлики</a> (7%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/three_fat_men" target="_blank">Три толстяка</a> (7%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/binary_numbers" target="_blank">Бинарные числа</a> (8%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/coin" target="_blank">Монетки</a> (8%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/twenty_five" target="_blank">Пятью пять - двадцать пять!</a> (8%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/mouse" target="_blank">Мышка</a> (9%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/turn" target="_blank">Разворот</a> (9%)</li>
 </ol>
