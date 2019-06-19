@@ -28,4 +28,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alien" target="_blank">Внеземные гости</a> (10%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/season" target="_blank">Время года</a> (10%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/golden_sand" target="_blank">Золотой песок</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/parallelepiped" target="_blank">Прямоугольный параллелепипед</a> (10%)</li>
 </ol>
