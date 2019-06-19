@@ -24,4 +24,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/twenty_five" target="_blank">Пятью пять - двадцать пять!</a> (8%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/mouse" target="_blank">Мышка</a> (9%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/turn" target="_blank">Разворот</a> (9%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/turnpermutation" target="_blank">От перестановки что-то меняется...</a> (9%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/alien" target="_blank">Внеземные гости</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/season" target="_blank">Время года</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/golden_sand" target="_blank">Золотой песок</a> (10%)</li>
 </ol>
