@@ -29,4 +29,11 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/season" target="_blank">Время года</a> (10%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/golden_sand" target="_blank">Золотой песок</a> (10%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/parallelepiped" target="_blank">Прямоугольный параллелепипед</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/fishing_net" target="_blank">Рыболовная сеть</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/alcohol" target="_blank">Спирт</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/palindrome" target="_blank">Четырехзначный палиндром</a> (10%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/keyboard" target="_blank">Клавиатура</a> (11%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/state_machine" target="_blank">Конечные автоматы</a> (11%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/repair" target="_blank">Ремонт</a> (11%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/alarm" target="_blank">Будильник</a> (12%)</li>
 </ol>
