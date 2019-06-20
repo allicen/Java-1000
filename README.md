@@ -42,4 +42,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/phone" target="_blank">Телефон</a> (12%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/delta" target="_blank">Треугольник - 3</a> (12%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/floret" target="_blank">Цветочки</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/divination" target="_blank">Гадание</a> (13%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/programmer_day" target="_blank">День программиста</a> (13%)</li>
 </ol>
