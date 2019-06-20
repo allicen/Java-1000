@@ -36,4 +36,10 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/state_machine" target="_blank">Конечные автоматы</a> (11%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/repair" target="_blank">Ремонт</a> (11%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alarm" target="_blank">Будильник</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/cut" target="_blank">Длина отрезка</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/conditioner" target="_blank">Кондиционер</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket" target="_blank">Счастливый билет</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/phone" target="_blank">Телефон</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/delta" target="_blank">Треугольник - 3</a> (12%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/floret" target="_blank">Цветочки</a> (12%)</li>
 </ol>
