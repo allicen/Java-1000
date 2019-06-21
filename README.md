@@ -44,4 +44,10 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/floret" target="_blank">Цветочки</a> (12%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/divination" target="_blank">Гадание</a> (13%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/programmer_day" target="_blank">День программиста</a> (13%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/spelling" target="_blank">Орфография</a> (13%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/string_book" target="_blank">Строки в книге</a> (13%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/bus_tour" target="_blank">Автобусная экскурсия</a> (14%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/watermelon" target="_blank">Арбузы</a> (14%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/known_everybody" target="_blank">Всем известно</a> (14%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/tea" target="_blank">Кипячение чая</a> (14%)</li>
 </ol>
