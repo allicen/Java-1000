@@ -50,4 +50,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/watermelon" target="_blank">Арбузы</a> (14%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/known_everybody" target="_blank">Всем известно</a> (14%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/tea" target="_blank">Кипячение чая</a> (14%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/arithmetic_progression" target="_blank">Арифметическая прогрессия</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/arrival_time" target="_blank">Время прибытия</a> (15%)</li>
 </ol>
