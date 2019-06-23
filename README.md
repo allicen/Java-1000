@@ -53,4 +53,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/arithmetic_progression" target="_blank">Арифметическая прогрессия</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/arrival_time" target="_blank">Время прибытия</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/puzzle_queens" target="_blank">Головоломка про ферзей</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/playing_dice" target="_blank">Игральные кубики</a> (15%)</li>
 </ol>
