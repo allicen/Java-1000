@@ -58,4 +58,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/thimble" target="_blank">Напёрстки</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/divider" target="_blank">НОД</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/census" target="_blank">Перепись</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/area_triangle" target="_blank">Площадь треугольника</a> (15%)</li>
 </ol>
