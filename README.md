@@ -63,4 +63,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/statistics" target="_blank">Статистика</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/heron" target="_blank">Цапли</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/step_happiness" target="_blank">В одном шаге от счастья</a> (16%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/unit" target="_blank">Единицы</a> (16%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/zero" target="_blank">Нули</a> (16%)</li>
 </ol>
