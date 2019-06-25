@@ -60,4 +60,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/census" target="_blank">Перепись</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/area_triangle" target="_blank">Площадь треугольника</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/subarray_array" target="_blank">Подмассив массива</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/statistics" target="_blank">Статистика</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/heron" target="_blank">Цапли</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/step_happiness" target="_blank">В одном шаге от счастья</a> (16%)</li>
 </ol>
