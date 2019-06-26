@@ -67,4 +67,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/zero" target="_blank">Нули</a> (16%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_buses" target="_blank">Номера автобусов</a> (16%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/underground" target="_blank">Метро</a> (16%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/circle" target="_blank">Кругляши</a> (16%)</li>
 </ol>
