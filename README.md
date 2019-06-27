@@ -56,7 +56,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/playing_dice" target="_blank">Игральные кубики</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/cell" target="_blank">Клетки</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/thimble" target="_blank">Напёрстки</a> (15%)</li>
-    <li><a href="https://github.com/allicen/Java-10000/tree/master/divider" target="_blank">НОД</a> (15%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/divider" target="_blank">НОД</a> (15%), <a href="https://github.com/allicen/Java-10000/tree/master/divider_two">второй вариант</a></li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/census" target="_blank">Перепись</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/area_triangle" target="_blank">Площадь треугольника</a> (15%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/subarray_array" target="_blank">Подмассив массива</a> (15%)</li>
@@ -68,4 +68,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_buses" target="_blank">Номера автобусов</a> (16%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/underground" target="_blank">Метро</a> (16%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/circle" target="_blank">Кругляши</a> (16%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/field" target="_blank">Поля</a> (16%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/fibonacci" target="_blank">Числа Фибоначчи</a> (16%)</li>
 </ol>
