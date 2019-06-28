@@ -8,7 +8,7 @@ public class LeastCommonMultiple {
         Scanner i = new Scanner(System.in);
         int a = i.nextInt(), b = i.nextInt();
         int c = a, d = b;
-        while (a != b){
+        while (a != b){ // Используется алгоритм Евклида
             if(a > b) a = a - b;
             else b = b - a;
         }
