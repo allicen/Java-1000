@@ -74,6 +74,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bolts_nuts" target="_blank">Болты и гайки</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/thaw" target="_blank">Оттепель</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/manhattan_streets" target="_blank">Манхэттенские улицы</a> (17%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/picking_blueberries" target="_blank">Сбор черники</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/road" target="_blank">Дороги</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/riddle" target="_blank">Загадка</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/least_common_multiple" target="_blank">НОК</a> (19%)</li>
