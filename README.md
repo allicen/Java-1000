@@ -75,8 +75,11 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/thaw" target="_blank">Оттепель</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/manhattan_streets" target="_blank">Манхэттенские улицы</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/picking_blueberries" target="_blank">Сбор черники</a> (17%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/photographic_negative" target="_blank">Миша и негатив</a> (17%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/fibonacci_sequence" target="_blank">Фибоначчиева последовательность</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/road" target="_blank">Дороги</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/riddle" target="_blank">Загадка</a> (18%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/office" target="_blank">Офис</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/least_common_multiple" target="_blank">НОК</a> (19%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sum" target="_blank">Сумма</a> (19%)</li>
 </ol>
