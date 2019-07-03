@@ -87,4 +87,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/compression_binary_sequences" target="_blank">Сжатие бинарных последовательностей</a> (19%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/symmetry" target="_blank">Симметрия</a> (19%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/rook" target="_blank">Игра с ладьей</a> (19%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/casting" target="_blank">Кастинг</a> (19%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/boxes" target="_blank">Коробки</a> (19%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/cross_zero" target="_blank">Крестики-нолики</a> (19%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/acm_world_finals" target="_blank">ACM World Finals</a> (19%)</li>
 </ol>
