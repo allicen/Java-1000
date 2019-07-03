@@ -81,8 +81,10 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/riddle" target="_blank">Загадка</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/office" target="_blank">Офис</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/rally" target="_blank">Соревнование картингистов</a> (18%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/chessboard" target="_blank">Шахматная доска - 2</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/least_common_multiple" target="_blank">НОК</a> (19%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sum" target="_blank">Сумма</a> (19%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/compression_binary_sequences" target="_blank">Сжатие бинарных последовательностей</a> (19%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/symmetry" target="_blank">Симметрия</a> (19%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/rook" target="_blank">Игра с ладьей</a> (19%)</li>
 </ol>
