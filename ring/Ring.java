@@ -17,8 +17,8 @@ public class Ring {
 
     public static void main(String[] argv) throws IOException{
         getData();
-        double r = Math.sqrt((Math.PI * Math.pow(data.get(1), 2) - data.get(0)) / Math.PI);
-        String rformat = String.format("%.3f", r).replaceAll(",", ".");
+        double r = Math.sqrt((Math.PI * Math.pow(data.get(1), 2) - data.get(0)) / Math.PI); // Используем формулу нахождения площади кольца
+        String rformat = String.format("%.3f", r).replaceAll(",", "."); // Приводим число к нужному формату
         PrintWriter pw = new PrintWriter(new File("output.txt"));
         pw.print(String.valueOf(rformat));
         pw.close();
