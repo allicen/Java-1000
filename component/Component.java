@@ -5,7 +5,7 @@ import java.io.*;
 
 public class Component {
     private static ArrayList<Integer> data = new ArrayList<>();
-    private static void getData() throws IOException{
+    private static void getData() throws IOException{ // Получение данных
         FileReader file = new FileReader("input.txt");
         Scanner sc = new Scanner(file);
         int numberLine = 0;
