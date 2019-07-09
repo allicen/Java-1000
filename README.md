@@ -79,6 +79,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/photographic_negative" target="_blank">Миша и негатив</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/fibonacci_sequence" target="_blank">Фибоначчиева последовательность</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/neerc" target="_blank">NEERC</a> (17%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/two_ring" target="_blank">Две окружности</a> (17%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/road" target="_blank">Дороги</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/riddle" target="_blank">Загадка</a> (18%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/office" target="_blank">Офис</a> (18%)</li>
