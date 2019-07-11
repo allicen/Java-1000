@@ -98,4 +98,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/temporary_key" target="_blank">Временной ключ</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/component" target="_blank">Детали</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/business" target="_blank">Кризисный бизнес</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/arrows" target="_blank">Стрелки</a> (20%)</li>
 </ol>
