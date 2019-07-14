@@ -100,4 +100,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/business" target="_blank">Кризисный бизнес</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/arrows" target="_blank">Стрелки</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/pizza" target="_blank">Пицца</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/number_e" target="_blank">Число E</a> (20%)</li>
 </ol>
