@@ -23,7 +23,6 @@ public class FibonacciTwo {
                 isFibonacci = 1;
             }
         }
-
         String result = (isFibonacci == 0) ? "0" : "1\n" + k;
         PrintWriter pw = new PrintWriter(new File("output.txt"));
         pw.print(result);
