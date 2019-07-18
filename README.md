@@ -102,4 +102,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/pizza" target="_blank">Пицца</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_e" target="_blank">Число E</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/fibonacci_two" target="_blank">Числа Фибоначчи - 2</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/queue" target="_blank">Очередь</a> (20%)</li>
 </ol>
