@@ -104,4 +104,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/fibonacci_two" target="_blank">Числа Фибоначчи - 2</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/queue" target="_blank">Очередь</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/elevator" target="_blank">Лифт</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/exam" target="_blank">Экзамены</a> (20%)</li>
 </ol>
