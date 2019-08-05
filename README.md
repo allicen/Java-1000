@@ -105,4 +105,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/queue" target="_blank">Очередь</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/elevator" target="_blank">Лифт</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/exam" target="_blank">Экзамены</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/left_recursion" target="_blank">Левая рекурсия</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/cute_pattern" target="_blank">Симпатичный узор</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/tax" target="_blank">Налоги</a> (20%)</li>
 </ol>
