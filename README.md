@@ -108,4 +108,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/left_recursion" target="_blank">Левая рекурсия</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/cute_pattern" target="_blank">Симпатичный узор</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/tax" target="_blank">Налоги</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/board" target="_blank">Табло</a> (20%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/idler" target="_blank">Лентяй</a> (21%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/home_school" target="_blank">Дом - Школа - Дом</a> (21%)</li>
 </ol>
