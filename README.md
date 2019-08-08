@@ -111,4 +111,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/board" target="_blank">Табло</a> (20%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/idler" target="_blank">Лентяй</a> (21%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/home_school" target="_blank">Дом - Школа - Дом</a> (21%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/split_parts" target="_blank">Разбиение на части</a> (21%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/eleven" target="_blank">Делимость на 11</a> (22%)</li>
 </ol>
