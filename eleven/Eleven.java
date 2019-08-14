@@ -27,8 +27,6 @@ public class Eleven {
 
         String result = (summEven == summOdd || Math.abs(summEven - summOdd) % 11 == 0) ? "YES" : "NO";
 
-        System.out.println(result);
-
         PrintWriter pw = new PrintWriter(new File("output.txt"));
         pw.print(result);
         pw.close();
