@@ -116,4 +116,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/eleven" target="_blank">Делимость на 11</a> (22%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alibaba" target="_blank">Али-Баба</a> (22%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lisaalisa" target="_blank">Лиса Алиса и кот Базилио</a> (22%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/constant_kaprekar" target="_blank">Постоянная Капрекара</a> (22%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/coloring_multiplication_tables" target="_blank">Раскраска таблицы умножения</a> (22%)</li>
 </ol>
