@@ -124,8 +124,11 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/carousel" target="_blank">Карусель</a> (22%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/prince_and_dragon" target="_blank">Принц и дракон</a> (22%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/adjacent_cells" target="_blank">Соседние клетки</a> (22%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/football" target="_blank">Футбол</a> (22%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/time_sort" target="_blank">Сортировка времени</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numbers" target="_blank">Наименьшее и наибольшее числа из тех же цифр</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wagons" target="_blank">Вагоны</a> (23%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/honey" target="_blank">Мёд</a> (23%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/numbers_game" target="_blank">Игра в числа</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numerologist" target="_blank">Нумеролог</a> (24%)</li>
 </ol>
