@@ -130,5 +130,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wagons" target="_blank">Вагоны</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/honey" target="_blank">Мёд</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numbers_game" target="_blank">Игра в числа</a> (23%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/single_nod" target="_blank">Единичный НОД</a> (23%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/chess" target="_blank">Шахматы</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numerologist" target="_blank">Нумеролог</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/clothes" target="_blank">Одежда</a> (24%)</li>
 </ol>
