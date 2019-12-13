@@ -114,6 +114,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/split_parts" target="_blank">Разбиение на части</a> (21%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/stairs" target="_blank">Лестница</a> (21%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/hockey" target="_blank">Хоккей</a> (21%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/sea_battle_two" target="_blank">Морской бой - 2</a> (21%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/last_digit" target="_blank">Последняя цифра A^B</a> (21%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/eleven" target="_blank">Делимость на 11</a> (22%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alibaba" target="_blank">Али-Баба</a> (22%)</li>
@@ -134,4 +135,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/chess" target="_blank">Шахматы</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numerologist" target="_blank">Нумеролог</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clothes" target="_blank">Одежда</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/arrange" target="_blank">Перестановка</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/unpack_string" target="_blank">Распаковка строки</a> (24%)</li>
 </ol>

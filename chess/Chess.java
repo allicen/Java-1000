@@ -57,7 +57,7 @@ public class Chess {
                 int cCoord = steps[1][0];
                 int dCoord = steps[1][1];
 
-                if(Math.abs(aCoord - cCoord) + Math.abs(bCoord - dCoord) == 3){
+                if(Math.abs((aCoord - cCoord) * (bCoord - dCoord)) == 2){
                     result = "YES";
                 }else {
                     result = "NO";
