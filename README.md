@@ -136,5 +136,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numerologist" target="_blank">Нумеролог</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clothes" target="_blank">Одежда</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/arrange" target="_blank">Перестановка</a> (24%)</li>
-    <li><a href="https://github.com/allicen/Java-10000/tree/master/unpack_string" target="_blank">Распаковка строки</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/unpack_string" target="_blank">Распаковка строки</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
 </ol>
