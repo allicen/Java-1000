@@ -143,4 +143,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/salads" target="_blank">Салаты</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/beautiful_numbers" target="_blank">Красивые числа - 2</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/sum_max_min" target="_blank">Сумма максимума и минимума</a> (26%)</li>
 </ol>
