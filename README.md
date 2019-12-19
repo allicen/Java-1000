@@ -140,6 +140,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/runeword" target="_blank">Рунные слова</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alphabet" target="_blank">Алфавит</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/adjustment" target="_blank">Уравнение для 5 класса!</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/frendly_numbers" target="_blank">Дружные числа</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
