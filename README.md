@@ -147,4 +147,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/salads" target="_blank">Салаты</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/beautiful_numbers" target="_blank">Красивые числа - 2</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sum_max_min" target="_blank">Сумма максимума и минимума</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/best_divider" target="_blank">Наилучший делитель</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/coin_two" target="_blank">Монеты - 2</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/ballot" target="_blank">Выборы</a> (26%)</li>
 </ol>
