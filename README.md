@@ -141,6 +141,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alphabet" target="_blank">Алфавит</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/adjustment" target="_blank">Уравнение для 5 класса!</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/frendly_numbers" target="_blank">Дружные числа</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/similar_arrays" target="_blank">Похожие массивы</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/multiplication_table" target="_blank">Таблица умножения</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
@@ -150,4 +152,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/best_divider" target="_blank">Наилучший делитель</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/coin_two" target="_blank">Монеты - 2</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/ballot" target="_blank">Выборы</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/funny_sequence" target="_blank">Забавная последовательность</a> (26%)</li>
 </ol>
