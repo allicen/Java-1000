@@ -9,17 +9,6 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class MultiplicationTable {
-    private static int count(int number, int search){
-        int count = 0;
-        while (number != 0){
-            if(number % 10 == search){
-                count++;
-            }
-            number /= 10;
-        }
-        return count;
-    }
-
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(new FileReader("input.txt"));
         StringTokenizer st = new StringTokenizer(sc.nextLine(), " ");
@@ -27,19 +16,26 @@ public class MultiplicationTable {
         int m = Integer.valueOf(st.nextToken());
 
         int numeral = 10;
-        Map<Integer, Integer> out = new HashMap<>();
+        Map<Integer, Integer> out = new HashMap<Integer, Integer>() {{
+            put(0, 0);
+            put(1, 0);
+            put(2, 0);
+            put(3, 0);
+            put(4, 0);
+            put(5, 0);
+            put(6, 0);
+            put(7, 0);
+            put(8, 0);
+            put(9, 0);
+        }};
 
         for(int i = 1; i <= n; i++){
             for(int j = 1; j <= m; j++){
                 int multi = i * j;
-                for(int search = 0; search < numeral; search++){
-                    if(search <= multi){
-                        int val = 0;
-                        if(out.containsKey(search)){
-                            val = out.get(search);
-                        }
-                       out.put(search, count(multi, search) + val);
-                    }
+                while (multi != 0){
+                    int search = multi % 10;
+                    out.put(search, out.get(search) + 1);
+                    multi /= 10;
                 }
             }
         }
