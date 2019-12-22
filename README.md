@@ -143,6 +143,10 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/frendly_numbers" target="_blank">Дружные числа</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/similar_arrays" target="_blank">Похожие массивы</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/multiplication_table" target="_blank">Таблица умножения</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/numbers_without_same_digit" target="_blank">Числа без одинаковых цифр</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/clock_fight" target="_blank">Часы с боем</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/module_amount" target="_blank">Модуль суммы</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/k_numbers" target="_blank">К-удивительные числа</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
