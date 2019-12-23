@@ -147,6 +147,9 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clock_fight" target="_blank">Часы с боем</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/module_amount" target="_blank">Модуль суммы</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/k_numbers" target="_blank">К-удивительные числа</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/circle_two" target="_blank">Окружности</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_sorting" target="_blank">Несложная сортировка</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/bit_reverse" target="_blank">Бит-реверс</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
