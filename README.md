@@ -150,6 +150,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/circle_two" target="_blank">Окружности</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_sorting" target="_blank">Несложная сортировка</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bit_reverse" target="_blank">Бит-реверс</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/beautiful_wall" target="_blank">Красивая стена</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/keyboard_two" target="_blank">Клавиатура - 2</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
@@ -160,4 +162,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/coin_two" target="_blank">Монеты - 2</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/ballot" target="_blank">Выборы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/funny_sequence" target="_blank">Забавная последовательность</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/bulls_cows" target="_blank">Быки и коровы</a> (26%)</li>
 </ol>
