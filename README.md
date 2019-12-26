@@ -133,6 +133,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numbers_game" target="_blank">Игра в числа</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/single_nod" target="_blank">Единичный НОД</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/chess" target="_blank">Шахматы</a> (23%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/worst_divider" target="_blank">Наихудший делитель</a> (23%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/fibonacci_again" target="_blank">Снова Фибоначчи</a> (23%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numerologist" target="_blank">Нумеролог</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clothes" target="_blank">Одежда</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/arrange" target="_blank">Перестановка</a> (24%)</li>
@@ -166,4 +168,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/funny_sequence" target="_blank">Забавная последовательность</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bulls_cows" target="_blank">Быки и коровы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/smallest_number_system" target="_blank">Наименьшая система счисления</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/creator" target="_blank">Боги</a> (26%)</li>
 </ol>
