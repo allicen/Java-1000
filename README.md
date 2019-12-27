@@ -156,6 +156,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/keyboard_two" target="_blank">Клавиатура - 2</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/srange_lottery" target="_blank">Странная лотелея</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/premium" target="_blank">Премия</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/dots_on_dominoes" target="_blank">Точки на костях домино</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
@@ -169,4 +170,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bulls_cows" target="_blank">Быки и коровы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/smallest_number_system" target="_blank">Наименьшая система счисления</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/creator" target="_blank">Боги</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/oranges" target="_blank">Апельсины</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/automorphic_numbers" target="_blank">Автоморфные числа</a> (26%)</li>
 </ol>
