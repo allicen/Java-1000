@@ -158,6 +158,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/premium" target="_blank">Премия</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/dots_on_dominoes" target="_blank">Точки на костях домино</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/chess_horse" target="_blank">Шахматный конь</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_calculation" target="_blank">Несложное вычисление</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
