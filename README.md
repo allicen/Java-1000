@@ -138,6 +138,9 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/numerologist" target="_blank">Нумеролог</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clothes" target="_blank">Одежда</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/arrange" target="_blank">Перестановка</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/palindromic_time" target="_blank">Палиндромное время</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/traps" target="_blank">Ловушки</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/fire" target="_blank">Костер</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/unpack_string" target="_blank">Распаковка строки</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/runeword" target="_blank">Рунные слова</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alphabet" target="_blank">Алфавит</a> (25%)</li>
