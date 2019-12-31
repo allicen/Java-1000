@@ -164,6 +164,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_calculation" target="_blank">Несложное вычисление</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gambling_shrek" target="_blank">Азартный Шрэк</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/topcoder" target="_blank">TopCoder</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/traffic_lights" target="_blank">Светофорчики</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
@@ -180,4 +181,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/oranges" target="_blank">Апельсины</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/automorphic_numbers" target="_blank">Автоморфные числа</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/digits_after_point" target="_blank">Цифры после запятой</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/even_odd_task" target="_blank">Четно-нечетная задача</a> (26%)</li>
 </ol>
