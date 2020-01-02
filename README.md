@@ -182,4 +182,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/automorphic_numbers" target="_blank">Автоморфные числа</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/digits_after_point" target="_blank">Цифры после запятой</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/even_odd_task" target="_blank">Четно-нечетная задача</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/artist" target="_blank">Художник</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/colored_rain" target="_blank">Цветной дождь</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/black_white_graphics" target="_blank">Черно-белая графика</a> (26%)</li>
 </ol>
