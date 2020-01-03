@@ -185,4 +185,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/artist" target="_blank">Художник</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/colored_rain" target="_blank">Цветной дождь</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/black_white_graphics" target="_blank">Черно-белая графика</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/chessboard_figure" target="_blank">Шахматная доска</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/birthday" target="_blank">Дни рождения</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/homework" target="_blank">Домашнее задание</a> (27%)</li>
 </ol>
