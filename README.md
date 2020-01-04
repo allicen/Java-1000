@@ -188,4 +188,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/chessboard_figure" target="_blank">Шахматная доска</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/birthday" target="_blank">Дни рождения</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/homework" target="_blank">Домашнее задание</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/double_numbers" target="_blank">Двоякие числа</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_series" target="_blank">Простой ряд</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/anagram-two" target="_blank">Анаграммы-2</a> (28%)</li>
 </ol>
