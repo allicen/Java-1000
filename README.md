@@ -191,5 +191,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/double_numbers" target="_blank">Двоякие числа</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_series" target="_blank">Простой ряд</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/different_numbers" target="_blank">Разные цифры</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/prime_factorization" target="_blank">Разложение на простые множители</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagram_two" target="_blank">Анаграммы-2</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/anti_palindrome" target="_blank">Антипалиндром</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/natural_number_series" target="_blank">Натуральный ряд чисел</a> (28%)</li>
 </ol>
