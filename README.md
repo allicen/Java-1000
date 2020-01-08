@@ -141,6 +141,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/palindromic_time" target="_blank">Палиндромное время</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/traps" target="_blank">Ловушки</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/fire" target="_blank">Костер</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/jumpy_journey" target="_blank">Прыгучее путешествие</a> (24%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/shift_permutation" target="_blank">Сдвиг перестановки</a> (24%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/unpack_string" target="_blank">Распаковка строки</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/runeword" target="_blank">Рунные слова</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/alphabet" target="_blank">Алфавит</a> (25%)</li>
@@ -165,6 +167,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gambling_shrek" target="_blank">Азартный Шрэк</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/topcoder" target="_blank">TopCoder</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/traffic_lights" target="_blank">Светофорчики</a> (25%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/reverse_permutation" target="_blank">Обратная перестановка</a> (25%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagrams" target="_blank">Анаграммы</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/professor" target="_blank">Профессор</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lucky_ticket_two" target="_blank">Счастливый билет - 2</a> (26%)</li>
