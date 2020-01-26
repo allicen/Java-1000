@@ -201,6 +201,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/digits" target="_blank">Цифры</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/neznaika" target="_blank">Незнайка</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gifts" target="_blank">Подарки Деда Мороза</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/scoring" target="_blank">Подсчет баллов</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagram_two" target="_blank">Анаграммы-2</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anti_palindrome" target="_blank">Антипалиндром</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/natural_number_series" target="_blank">Натуральный ряд чисел</a> (28%)</li>
