@@ -210,4 +210,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/deletion" target="_blank">Вычеркивание</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/playing_with_matches" target="_blank">Игра со спичками</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/quadratic_equation" target="_blank">Квадратное уравнение</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/treasure" target="_blank">Клад</a> (28%)</li>
 </ol>
