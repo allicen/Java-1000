@@ -212,4 +212,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/playing_with_matches" target="_blank">Игра со спичками</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/quadratic_equation" target="_blank">Квадратное уравнение</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/treasure" target="_blank">Клад</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/same_numbers" target="_blank">Общие цифры</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/election_of_priests" target="_blank">Выборы жрецов</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/short_sequence" target="_blank">Короткая последовательность</a> (28%)</li>
 </ol>
