@@ -216,4 +216,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/same_numbers" target="_blank">Общие цифры</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/election_of_priests" target="_blank">Выборы жрецов</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/short_sequence" target="_blank">Короткая последовательность</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/checking_for_likability" target="_blank">Проверка на симпатичность</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/multi_digits" target="_blank">Произведение цифр - 2</a> (28%)</li>
 </ol>
