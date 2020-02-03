@@ -218,4 +218,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/short_sequence" target="_blank">Короткая последовательность</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/checking_for_likability" target="_blank">Проверка на симпатичность</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/multi_digits" target="_blank">Произведение цифр - 2</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/multi_digits" target="_blank">Колокол</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/bell" target="_blank">Простые числа</a> (28%)</li>
 </ol>
