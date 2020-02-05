@@ -189,6 +189,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/colored_rain" target="_blank">Цветной дождь</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/black_white_graphics" target="_blank">Черно-белая графика</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/chessboard_figure" target="_blank">Шахматная доска</a> (26%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/factorial" target="_blank">Факториалы!!!</a> (26%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/birthday" target="_blank">Дни рождения</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/homework" target="_blank">Домашнее задание</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/double_numbers" target="_blank">Двоякие числа</a> (27%)</li>
@@ -203,6 +204,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gifts" target="_blank">Подарки Деда Мороза</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/scoring" target="_blank">Подсчет баллов</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/optimization_circle" target="_blank">Оптимизация по окружности</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/convex_hull" target="_blank">Выпуклая оболочка</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagram_two" target="_blank">Анаграммы-2</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anti_palindrome" target="_blank">Антипалиндром</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/natural_number_series" target="_blank">Натуральный ряд чисел</a> (28%)</li>
@@ -222,5 +224,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bell" target="_blank">Простые числа</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_numbers_two" target="_blank">Простые числа - 2</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gnome_entertainment" target="_blank">Развлечения гномов</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/gardener_artist" target="_blank">Садовник-художник</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/castle" target="_blank">Замок</a> (29%)</li>
 </ol>
