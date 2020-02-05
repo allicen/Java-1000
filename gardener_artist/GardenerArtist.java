@@ -13,8 +13,6 @@ public class GardenerArtist {
 
         long count = (long) (colorCount * Math.pow(2, number-1));
 
-        System.out.println(count);
-
         FileWriter out = new FileWriter("output.txt");
         out.write(String.valueOf(count));
         out.close();
