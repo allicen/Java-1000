@@ -226,5 +226,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gnome_entertainment" target="_blank">Развлечения гномов</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/gardener_artist" target="_blank">Садовник-художник</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sapper" target="_blank">Сапер</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/decoding" target="_blank">Расшифровка</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/castle" target="_blank">Замок</a> (29%)</li>
 </ol>
