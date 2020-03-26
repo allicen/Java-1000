@@ -207,6 +207,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/convex_hull" target="_blank">Выпуклая оболочка</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/rectangle_two" target="_blank">Прямоугольник - 2</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wholesale" target="_blank">Оптовая покупка</a> (27%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/hunter" target="_blank">Охотник</a> (27%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anagram_two" target="_blank">Анаграммы-2</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/anti_palindrome" target="_blank">Антипалиндром</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/natural_number_series" target="_blank">Натуральный ряд чисел</a> (28%)</li>
