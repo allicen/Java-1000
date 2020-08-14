@@ -1,5 +1,5 @@
 <h1 class="title">1000 задач на Java</h1>
-<p>Решение задач с сайта <a href="https://acmp.ru/index.asp?main=tasks" targe="_blank">acmp.ru</a>.</p>
+<p>Решение задач с сайта <a href="https://acmp.ru/index.asp?main=tasks" target="_blank">acmp.ru</a>.</p>
 <p>Задачи в порядке возрастания сложности:</p>
 <ol>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/Not_deaf_phone" target="_blank">Неглухой телефон</a> (1%)</li>
@@ -236,4 +236,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sorting_count" target="_blank">Сортировка подсчетом</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_participants_olympiad" target="_blank">Количество участников олимпиады</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_palindrome" target="_blank">Число - палиндром</a> (29%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/unix" target="_blank">Unix</a> (29%)</li>
 </ol>
