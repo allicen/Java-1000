@@ -232,6 +232,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/decoding" target="_blank">Расшифровка</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/saddle_point" target="_blank">Седловые точки</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/game_theory" target="_blank">Теория игр</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/diplomas" target="_blank">Дипломы</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/castle" target="_blank">Замок</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sorting_count" target="_blank">Сортировка подсчетом</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_participants_olympiad" target="_blank">Количество участников олимпиады</a> (29%)</li>
