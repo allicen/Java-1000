@@ -242,6 +242,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_palindrome" target="_blank">Число - палиндром</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/unix" target="_blank">Unix</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/task_of_josephus" target="_blank">Задача Иосифа Флавия</a> (29%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/bowling" target="_blank">Боулинг</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/goldbach_conjecture" target="_blank">Гипотеза Гольдбаха</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_pow_n" target="_blank">2^N</a> (30%)</li>
 </ol>
