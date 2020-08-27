@@ -245,4 +245,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bowling" target="_blank">Боулинг</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/goldbach_conjecture" target="_blank">Гипотеза Гольдбаха</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_pow_n" target="_blank">2^N</a> (30%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/abba_gold" target="_blank">Золото племени АББА</a> (30%)</li>
 </ol>
