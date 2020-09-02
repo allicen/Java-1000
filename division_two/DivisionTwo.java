@@ -21,7 +21,7 @@ public class DivisionTwo {
             }
         }
 
-        if (number == 2 || number == 5 || number == 1) {
+        if (number == 1) {
             out.println("NO");
         } else {
             out.println("YES");
