@@ -252,4 +252,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/fun_game" target="_blank">Забавная игра</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/division_two" target="_blank">Деление-2</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/amount_two" target="_blank">Сумма - 2</a> (30%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/sum_n_digit_numbers" target="_blank">Сумма n-значных чисел</a> (30%)</li>
 </ol>
