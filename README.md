@@ -254,4 +254,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/amount_two" target="_blank">Сумма - 2</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sum_n_digit_numbers" target="_blank">Сумма n-значных чисел</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clock" target="_blank">Часы</a> (30%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/lexicographic_order_numbers" target="_blank">Лексикографический порядок чисел</a> (31%)</li>
 </ol>
