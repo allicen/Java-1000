@@ -256,4 +256,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/clock" target="_blank">Часы</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lexicographic_order_numbers" target="_blank">Лексикографический порядок чисел</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/field_miracles" target="_blank">Поле чудес</a> (31%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/letter" target="_blank">Письмо</a> (31%)</li>
 </ol>
