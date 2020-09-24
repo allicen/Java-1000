@@ -258,6 +258,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/teleportation" target="_blank">Телепортация</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/program_template" target="_blank">Шаблон программы</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/bertrand_postulate" target="_blank">Постулат Бертрана</a> (30%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/robot_k79" target="_blank">Робот К-79</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/lexicographic_order_numbers" target="_blank">Лексикографический порядок чисел</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/field_miracles" target="_blank">Поле чудес</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/letter" target="_blank">Письмо</a> (31%)</li>
