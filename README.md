@@ -265,4 +265,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/event" target="_blank">Мероприятие</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/dictionary" target="_blank">Словарь</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/shelf" target="_blank">Полка</a> (31%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_radical" target="_blank">Простой цифровой корень</a> (31%)</li>
 </ol>
