@@ -270,3 +270,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/power_numbers" target="_blank">Степенные числа</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/n_digit_numbers" target="_blank">N-значные числа</a> (32%)</li>
 </ol>
+
+<p>Задачи из других источников: <a href="https://github.com/allicen/Java-1000/tree/master/_other_tasks_">перейти в папку с задачами</a>.</p>
