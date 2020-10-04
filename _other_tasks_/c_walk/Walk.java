@@ -20,16 +20,12 @@ public class Walk {
         for (int i = 0; i < n; i++) {
             String[] line = in.nextLine().split(" ");
             for (int j = 0; j < line.length; j++) {
-                matrix[i][j] = Long.parseLong(line[j]);
-            }
-        }
-
-        // проверка 1 элемента
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (matrix[i][j] < s) {
+                long number = Long.parseLong(line[j]);
+                // проверка каждого элемента
+                if (number < s) {
                     count++;
                 }
+                matrix[i][j] = number;
             }
         }
 
@@ -41,20 +37,24 @@ public class Walk {
 
         // проверка квадратов
         while (countCell <= min) {
-            long sumTmp = 0;
+            long sumTmp = -1;
             for (int i = rowStart; i < rowStart+countCell; i++) {
                 for (int j = columnStart; j < columnStart+countCell; j++) {
                     if (rowStart+countCell <= n && columnStart+countCell <= m) {
                         long number = matrix[i][j];
 
-                        if (number > s) {
+                        if (number >= s) {
                             exit = true;
                             break;
                         }
 
-                        sumTmp += number;
+                        if (sumTmp == -1) {
+                            sumTmp = number;
+                        } else {
+                            sumTmp += number;
+                        }
 
-                        if (sumTmp > s) {
+                        if (sumTmp > s) { // выйти, если условие невозможно
                             exit = true;
                             break;
                         }
@@ -66,16 +66,16 @@ public class Walk {
                 }
             }
 
-            if (!exit && sumTmp > 0 && sumTmp < s) {
+            if (!exit && sumTmp > -1 && sumTmp < s) {
                 count++;
             }
-            rowStart++;
+            rowStart++; // сдвиг вправо
             exit = false;
-            if (rowStart > n) {
+            if (rowStart > n) { // сдвиг вниз
                 rowStart = 0;
                 columnStart++;
             }
-            if (columnStart > m) {
+            if (columnStart > m) { // увеличение размера квадрата
                 rowStart = 0;
                 columnStart = 0;
                 countCell++;
