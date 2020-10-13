@@ -247,6 +247,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sequence_conversion_two" target="_blank">Преобразование последовательности - 2</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_sequences" target="_blank">Две последовательности</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wire_transfer" target="_blank">Телеграфный перевод</a> (29%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/live_journal" target="_blank">Jивой Jурнал</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/goldbach_conjecture" target="_blank">Гипотеза Гольдбаха</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_pow_n" target="_blank">2^N</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/abba_gold" target="_blank">Золото племени АББА</a> (30%)</li>
