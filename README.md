@@ -273,6 +273,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/shelf" target="_blank">Полка</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/simple_radical" target="_blank">Простой цифровой корень</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/power_numbers" target="_blank">Степенные числа</a> (31%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/shift_text" target="_blank">Сдвиг текста</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/n_digit_numbers" target="_blank">N-значные числа</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/ping" target="_blank">Обмен пакетами</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wedding" target="_blank">Свадьба</a> (32%)</li>
