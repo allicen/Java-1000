@@ -281,7 +281,8 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wedding" target="_blank">Свадьба</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/substrings_identical_letters" target="_blank">Подстроки из одинаковых букв</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/rect" target="_blank">Прямоугольники</a> (32%)</li>
-    <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Java vs C++</a> (34%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/hairy_business" target="_blank">Прямоугольники</a> (32%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Волосатый бизнес</a> (34%)</li>
 </ol>
 
 <p>Задачи из других источников: <a href="https://github.com/allicen/Java-1000/tree/master/_other_tasks_">перейти в папку с задачами</a>.</p>
