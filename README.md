@@ -282,6 +282,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/substrings_identical_letters" target="_blank">Подстроки из одинаковых букв</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/rect" target="_blank">Прямоугольники</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/hairy_business" target="_blank">Прямоугольники</a> (32%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/minimum_path_table" target="_blank">Минимальный путь в таблице</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Волосатый бизнес</a> (34%)</li>
 </ol>
 
