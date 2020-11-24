@@ -276,6 +276,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/power_numbers" target="_blank">Степенные числа</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/shift_text" target="_blank">Сдвиг текста</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/usm_dialogs" target="_blank">Диалоги по UCM</a> (31%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/cryptogram" target="_blank">Криптограмма</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/n_digit_numbers" target="_blank">N-значные числа</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/ping" target="_blank">Обмен пакетами</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wedding" target="_blank">Свадьба</a> (32%)</li>
