@@ -280,6 +280,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/cryptogram" target="_blank">Криптограмма</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/community_of_robots" target="_blank">Сообщество роботов</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/money_money_money" target="_blank">Money, money, money</a> (31%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/list_of_items" target="_blank">Список предметов</a> (31%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/n_digit_numbers" target="_blank">N-значные числа</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/ping" target="_blank">Обмен пакетами</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wedding" target="_blank">Свадьба</a> (32%)</li>
