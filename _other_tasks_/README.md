@@ -7,4 +7,6 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/d_leras_pens" target="_blank">Ручки Леры</a> (<a href="https://timus.online/">источник</a>)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/b_robot_secretary" target="_blank">Робот-секретарь</a> (Яндекс)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/d_reliable_tag" target="_blank">Надежный счетчик</a> (Яндекс)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/e_knights_and_knaves" target="_blank">Рыцари и лжецы</a> (Отборочный тур олимпиады "Я-Профессионал")</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/f_positive_divisors" target="_blank">F. Положительные делители</a> (Отборочный тур олимпиады "Я-Профессионал")</li>
 </ol>
