@@ -249,6 +249,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_sequences" target="_blank">Две последовательности</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wire_transfer" target="_blank">Телеграфный перевод</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/live_journal" target="_blank">Jивой Jурнал</a> (29%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/encryption" target="_blank">Шифровка</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/goldbach_conjecture" target="_blank">Гипотеза Гольдбаха</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/two_pow_n" target="_blank">2^N</a> (30%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/abba_gold" target="_blank">Золото племени АББА</a> (30%)</li>
@@ -288,7 +289,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/wedding" target="_blank">Свадьба</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/substrings_identical_letters" target="_blank">Подстроки из одинаковых букв</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/rect" target="_blank">Прямоугольники</a> (32%)</li>
-    <li><a href="https://github.com/allicen/Java-10000/tree/master/hairy_business" target="_blank">Прямоугольники</a> (32%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/hairy_business" target="_blank">Волосатый бизнес</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/minimum_path_table" target="_blank">Минимальный путь в таблице</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/only_right_down" target="_blank">Только вправо или вниз</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/cake_two" target="_blank">Торт - 2</a> (32%)</li>
@@ -298,7 +299,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/playing_with_pebbles" target="_blank">Игра с камешками</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sequence_two" target="_blank">Последовательность - 2</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/poker" target="_blank">Покер</a> (33%)</li>
-    <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Волосатый бизнес</a> (34%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Java vs C++</a> (34%)</li>
 </ol>
 
 <p>Задачи из других источников: <a href="https://github.com/allicen/Java-1000/tree/master/_other_tasks_">перейти в папку с задачами</a>.</p>
