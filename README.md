@@ -296,6 +296,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/military_base" target="_blank">Военная база</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/birthday_two" target="_blank">День рождения - 2</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/playing_with_pebbles" target="_blank">Игра с камешками</a> (32%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/sequence_two" target="_blank">Последовательность - 2</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/poker" target="_blank">Покер</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Волосатый бизнес</a> (34%)</li>
 </ol>
