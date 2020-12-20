@@ -301,6 +301,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/poker" target="_blank">Покер</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/maximum_three" target="_blank">Максимальная тройка</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Java vs C++</a> (34%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/multiplication_of_numbers" target="_blank">Произведение цифр</a> (42%)</li>
 </ol>
 
 <p>Задачи из других источников: <a href="https://github.com/allicen/Java-1000/tree/master/_other_tasks_">перейти в папку с задачами</a>.</p>
