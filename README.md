@@ -238,6 +238,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/game_meter" target="_blank">Развлечения с измерителем</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/shooter" target="_blank">Стрелок</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/weighing" target="_blank">Взвешивание</a> (28%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/economy" target="_blank">Экономия</a> (28%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/castle" target="_blank">Замок</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/sorting_count" target="_blank">Сортировка подсчетом</a> (29%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/number_participants_olympiad" target="_blank">Количество участников олимпиады</a> (29%)</li>
