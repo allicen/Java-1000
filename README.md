@@ -303,6 +303,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/shooting_championship" target="_blank">Чемпионат по стрельбе</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/goldbach_conjecture_two" target="_blank">Гипотеза Гольдбаха - 2</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/horse_racing" target="_blank">Скачки</a> (32%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/evolution" target="_blank">Эволюция</a> (32%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/poker" target="_blank">Покер</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/maximum_three" target="_blank">Максимальная тройка</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/construction_of_roads" target="_blank">Постройка дорог</a> (33%)</li>
