@@ -310,6 +310,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/chest_of_billy_bones" target="_blank">Сундук Билли Бонса</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/percents" target="_blank">Проценты</a> (33%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/java_vs_pcc" target="_blank">Java vs C++</a> (34%)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/dates" target="_blank">Даты</a> (34%)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/multiplication_of_numbers" target="_blank">Произведение цифр</a> (42%)</li>
 </ol>
 
