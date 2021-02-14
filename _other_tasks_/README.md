@@ -9,4 +9,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/d_reliable_tag" target="_blank">Надежный счетчик</a> (Яндекс)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/e_knights_and_knaves" target="_blank">Рыцари и лжецы</a> (Отборочный тур олимпиады "Я-Профессионал")</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/f_positive_divisors" target="_blank">F. Положительные делители</a> (Отборочный тур олимпиады "Я-Профессионал")</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/g_couriers_implementation" target="_blank">H. Курьеры</a> (Сириус 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/i_basketball_game" target="_blank">I. Баскетбольный матч</a> (Сириус 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/j_digital_protocol" target="_blank">J. Цифровой протокол</a> (Сириус 2021)</li>
 </ol>
