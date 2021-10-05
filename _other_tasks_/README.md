@@ -12,4 +12,9 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/g_couriers_implementation" target="_blank">H. Курьеры</a> (Сириус 2021)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/i_basketball_game" target="_blank">I. Баскетбольный матч</a> (Сириус 2021)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/j_digital_protocol" target="_blank">J. Цифровой протокол</a> (Сириус 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/kvn" target="_blank">A. Квнщики</a> (УрФУ 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/tower" target="_blank">B. Га-га 3</a> (УрФУ 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/play" target="_blank">D. Игрушки</a> (УрФУ 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/search" target="_blank">F. Прогулка по Новоуральску</a> (УрФУ 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/book" target="_blank">E. Книжный шкаф</a> (УрФУ 2021)</li>
 </ol>
