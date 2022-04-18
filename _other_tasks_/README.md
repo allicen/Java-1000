@@ -17,4 +17,7 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/play" target="_blank">D. Игрушки</a> (УрФУ 2021)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/search" target="_blank">F. Прогулка по Новоуральску</a> (УрФУ 2021)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/book" target="_blank">E. Книжный шкаф</a> (УрФУ 2021)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/microbiology" target="_blank">C. Микробиология</a> (Отборочный тур RuCode 2022)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/numeric_palindrome" target="_blank">E. Числовой палиндром</a> (Отборочный тур RuCode 2022)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/second_above" target="_blank">B. Второй сверху</a> (Отборочный тур RuCode 2022)</li>
 </ol>
