@@ -20,4 +20,16 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/microbiology" target="_blank">C. Микробиология</a> (Отборочный тур RuCode 2022)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/numeric_palindrome" target="_blank">E. Числовой палиндром</a> (Отборочный тур RuCode 2022)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/second_above" target="_blank">B. Второй сверху</a> (Отборочный тур RuCode 2022)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/gcd" target="_blank">A1. GCD</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/rapid_exponentiation" target="_blank">I1. Быстрое возведение в степень</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/inverse_simple_module" target="_blank">J1. Обратное по простому модулю</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/large_prime_numbers" target="_blank">K1. Большие простые числа</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/collector" target="_blank">A3. Коллекционер</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/multigraph" target="_blank">B3. Мультиграф</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/exit_from_maze" target="_blank">A4. Выход из лабиринта</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_add_one" target="_blank">A5. прибавить один</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_comparing_numbers" target="_blank">B5. Сравнение чисел</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_sum_numbers" target="_blank">C5. Сумма чисел</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_difference_numbers" target="_blank">D5. Разность чисел</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_multiplication" target="_blank">E5. Умножение</a> (RuCode 2022, Div E)</li>
 </ol>
