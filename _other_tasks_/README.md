@@ -32,4 +32,5 @@
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_sum_numbers" target="_blank">C5. Сумма чисел</a> (RuCode 2022, Div E)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_difference_numbers" target="_blank">D5. Разность чисел</a> (RuCode 2022, Div E)</li>
     <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/big_multiplication" target="_blank">E5. Умножение</a> (RuCode 2022, Div E)</li>
+    <li><a href="https://github.com/allicen/Java-10000/tree/master/_other_tasks_/intern_day" target="_blank">A. Граф подстрок</a> (День стажера, Яндекс, 2022)</li>
 </ol>
